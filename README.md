@@ -1,5 +1,5 @@
 PYTHON AND SELENIUM
 
-**BY: Cristian Garro and Juan Pbalo**
+**BY: Cristian Garro and Juan Pablo**
 
 :)
